@@ -1,0 +1,30 @@
+.component-home-overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom right, #4486d8, #151f3f);
+  position: inherit;
+  left: inherit;
+  right: inherit;
+  bottom: inherit;
+  top: inherit;
+}
+.component-home {
+  text-align: center;
+}
+.component-home .home-title {
+  color: #f0f0f0;
+  font-size: 5em;
+  border-bottom: 1px solid #f0f0f0;
+}
+.component-home .home-description {
+  margin-top: 15px;
+  color: #d6d6d6;
+  font-size: 1.5em;
+}
+.component-home .home-button {
+  margin-top: 15px;
+  width: 250px;
+  height: 40px;
+  font-size: 1.2em;
+}

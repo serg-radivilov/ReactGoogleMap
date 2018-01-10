@@ -1,0 +1,14 @@
+{
+  "name": "MainCodeackEnd",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Serg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
